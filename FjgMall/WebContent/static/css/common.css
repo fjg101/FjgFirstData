@@ -1,0 +1,10 @@
+#foot {
+	height: 30px;
+	width: 1200px;
+	text-align: center;
+}
+#head,
+#foot {
+	height: 10%;
+	width: 100%;
+}

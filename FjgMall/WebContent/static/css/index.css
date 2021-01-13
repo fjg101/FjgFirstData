@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#foot {
+	height: 30px;
+	width: 1200px;
+	text-align: center;
+}
+#head {
+	width: 1200px;
+}
+
+div.titleHead {
+	font-size: 25px;
+	color: red;
+	width: 75%;
+}
+
+span.foot {
+	color: blueviolet;
+}
+
+html,
+body,
+#main {
+	height: 100%;
+	width: 100%;
+}
+
+#head,
+#foot {
+	height: 10%;
+	width: 100%;
+}
+
+#body,
+.product {
+	height: 80%;
+	width: 100%;
+}
+td{
+	width: 25%;
+}
+table{
+	background-color: #00fff7;
+}
+span.product_name{
+	color: red;
+}
+div.menu{
+	width: 25%;
+}
